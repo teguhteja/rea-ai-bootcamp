@@ -1,0 +1,4 @@
+PassengerId,class,sex,age,ticket,fare,cabin,embarked
+1,First,Female,28,U64297,75.4,C20,S
+2,Second,Male,24,V91254,50.0,A1,Q
+3,First,Male,35,W72311,100.0,Z5,S
